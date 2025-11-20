@@ -1,1 +1,1 @@
-git checkout about
+About Our Company
